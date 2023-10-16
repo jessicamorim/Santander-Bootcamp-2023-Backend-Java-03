@@ -2,8 +2,9 @@
 
 Representação de um diagrama de Classes
 
-Elaborção do diagramação das classes e interfaces com a proposta de representar os papéis do iPhone de: 
-Reprodutor Musicial, Aparelho Telefônico e Navegador na Internet. 
+
+Elaboração da diagrama de classes e interfaces com a proposta de representar os papéis do iPhone, 
+como por exemplo: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
 
 Comportamentos esperados:
 
